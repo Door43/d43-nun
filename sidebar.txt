@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[nun:home|Door43 (nun)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-nun|d43-nun repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-nun/archive/master.zip|d43-nun.zip]]
+
+**Recent Changes**
+{{changes>ns = nun}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/nun|Ethnologue data]]
+
